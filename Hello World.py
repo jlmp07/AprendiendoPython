@@ -1,3 +1,5 @@
+#Juan Luis Mejia Paulino, Clases de Python
+
 # Clear the terminal screen
 import os
 os.system('cls')
