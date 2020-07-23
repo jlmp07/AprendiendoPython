@@ -32,7 +32,19 @@ names_3 = {
 
 
 
-# Print the results
+# Print the results Dictionaries
 print (names_3["John"])
 
+
+#quotation Marks / Strings
+
+greetings = 'My Boss Yelled "Get Back to Work!!"'
+
+print (greetings)
+
+#Concatonate = variable 1 + variable 2 / usando len 
+name = "juan"
+greetings = "my name is " + name
+
+print (len(greetings))
 
