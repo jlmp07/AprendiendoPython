@@ -19,7 +19,7 @@ names = ["john", "Bob", "Patricio"]
 #Tuples
 names_2 = ("john", "Bob", "Patricio")
 
-#Dictionaries
+#Dictionaries {"Key" : "Value"}
 
 names_3 = {
     "John" : "Pepperoni",
